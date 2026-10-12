@@ -20,7 +20,7 @@ We're not a Shopify dev shop. We're not a tech company. We're operators who buil
 
 1st Floor, YBR Nilayam, Dayal Nagar Colony, Vishalakshi Nagar, Visakhapatnam, AP 530043, India
 [hello@growwwtech.com](mailto:hello@growwwtech.com) · +91 98666 62226 · Mon–Fri 09:00–19:00 IST
-[Rated 4.9★ on Google](https://g.page/r/CeDUh5jhTvDHEBM/review) · [Shopify Partner](https://www.shopify.com/partners/directory/partner/grovesbox-private-limited)
+[Rated 4.9★ on Google](https://g.page/r/CeDUh5jhTvDHEBM/review) · [Shopify Partner](https://www.shopify.com/partners/directory/partner/growww-tech)
 
 [X](https://x.com/GrowwwTechIndia) · [LinkedIn](https://www.linkedin.com/company/growww-tech) · [Instagram](https://www.instagram.com/growww.tech/) · [YouTube](https://www.youtube.com/@growwwtech) · [Clutch](https://clutch.co/profile/growww-tech)
 
