@@ -1,8 +1,8 @@
 # Growww Tech
 
-**We build stores, apps and growth engines for Indian D2C brands ready to stop selling through DMs.**
+**We build stores, apps and growth engines for ecommerce brands ready to stop selling through DMs.**
 
-We're not a Shopify dev shop. We're not a tech company. We're operators who build, optimise, and run the commerce stack behind 200+ Indian D2C brands — store, custom code, mobile apps, CRO, software, dedicated team. Calibrated for Indian ecommerce, not ported from a US D2C template: COD-RTO patterns, UPI-first checkout, Tier-2 lane economics, Diwali-week traffic.
+We're not a Shopify dev shop. We're not a tech company. We're operators who build, optimise, and run the commerce stack behind 200+ ecommerce brands — store, custom code, mobile apps, CRO, software, dedicated team. Calibrated for Indian ecommerce, not ported from a US D2C template: COD-RTO patterns, UPI-first checkout, Tier-2 lane economics, Diwali-week traffic.
 
 **200+ brands · ₹385Cr+ revenue · 4.5x avg ROI · 98% retention**
 
